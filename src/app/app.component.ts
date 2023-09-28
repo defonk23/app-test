@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'apptest 2';
+  title = 'FONKEU teste son application angular V 0.0.0';
 }
